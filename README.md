@@ -96,6 +96,8 @@ pytest tests/ -v
 ```
 ### Demo
 
+[🎥 Watch the Smart City AI Agent Demo](docs/images/Smart_City_AI_Agent_demo_video.mp4)
+
 <video width="1080" height="720" controls>
   <source src="./docs/images/Smart_City_AI_Agent_demo_video.mp4" type="video/mp4">
   Your browser does not support the video tag.

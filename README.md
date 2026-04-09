@@ -49,7 +49,8 @@ An autonomous AI agent that answers questions about London city conditions by in
 ---
 
 ## 🏗️ Architecture
-![Smart City AI Agent Workflow](./docs/images/Smart_City_AI_Agent_workflow.gif)
+<!-- ![Smart City AI Agent Workflow](./docs/images/Smart_City_AI_Agent_workflow.gif) -->
+![Smart City AI Agent Workflow](./docs/images/smart_city_architecture.gif)
 
 ---
 

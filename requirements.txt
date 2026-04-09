@@ -1,0 +1,28 @@
+# Smart City AI Agent - Requirements
+
+# ── Web Framework ─────────────────────────────────────────
+fastapi>=0.104.0
+uvicorn>=0.24.0
+
+# ── HTTP Client ───────────────────────────────────────────
+httpx>=0.25.0
+requests>=2.31.0
+
+# ── Config & Validation ──────────────────────────────────
+pydantic>=2.5.0
+pydantic-settings>=2.1.0
+python-dotenv>=1.0.0
+
+# ── LangGraph Agent Framework ────────────────────────────
+langgraph>=0.2.0
+langchain-core>=0.3.0
+langchain-google-genai>=2.0.0
+
+# ── Frontend ──────────────────────────────────────────────
+streamlit>=1.29.0
+folium>=0.15.0
+streamlit-folium>=0.22.0
+plotly>=5.18.0
+
+# ── Testing ───────────────────────────────────────────────
+pytest>=7.4.0
